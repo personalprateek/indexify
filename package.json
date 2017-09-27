@@ -1,0 +1,23 @@
+{
+  "name": "indexify",
+  "version": "1.0.0",
+  "description": "indexify the array of json object with specified key:value",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/personalprateek/indexify.git"
+  },
+  "author": "Prateek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/personalprateek/indexify/issues"
+  },
+  "homepage": "https://github.com/personalprateek/indexify#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
